@@ -30,6 +30,5 @@ Genre, Country, Release Year
 Ratings and Duration
 Source: Kaggle Netflix Dataset or proprietary dataset.
 
-Ensure the file is named netflix_content_2023.csv and placed in the root directory.
 
 
